@@ -1,0 +1,13 @@
+{
+  "id": "mcp-debug",
+  "name": "MCP 调试面板",
+  "version": "2.0.0",
+  "description": "管理多个 MCP server：启用/禁用、命名、选传输协议(Streamable HTTP/SSE)、自定义请求头、按 server 单独开关工具",
+  "author": "laliandyunhe",
+  "entry": "https://raw.githubusercontent.com/laliandyunhe/newmcp/main/mcp-debug-plugin.js",
+  "hash": "",
+  "permissions": [
+    "storage",
+    "ui"
+  ]
+}
